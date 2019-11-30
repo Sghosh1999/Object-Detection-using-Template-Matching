@@ -1,8 +1,9 @@
-# Object-Detection
-In this repository I have defined Object Detection Techniques.
+# Object-Detection using OpenCV
+
+In this repository I have defined several Object Detection Techniques.
 
 ## Corner Detection
-- Harris Corners Algorith
+- Harris Corners Algorithm
 - Good Features to Track
 
 ## Object Detection Algorithms
